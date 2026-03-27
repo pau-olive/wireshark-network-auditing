@@ -1,5 +1,6 @@
 # Network Protocol Audit: DHCP, DNS & HTTP MITM Analysis
 
+![Portada del proyecto](cover.png)
 
 ## Descripción del Proyecto
 Proyecto de **Análisis de Redes y Ciberseguridad** centrado en la interceptación y disección de protocolos críticos en un entorno controlado.
@@ -74,7 +75,6 @@ El análisis demuestra que sin el uso de protocolos seguros (HTTPS), la informac
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 15px; margin: 30px 0;">
 
-<img src="screenshots/screenshots (1).png" alt="Análisis Wireshark 1" width="100%">
 <img src="screenshots/screenshots (2).png" alt="Análisis Wireshark 2" width="100%">
 <img src="screenshots/screenshots (3).png" alt="Análisis Wireshark 3" width="100%">
 <img src="screenshots/screenshots (4).png" alt="Análisis Wireshark 4" width="100%">
