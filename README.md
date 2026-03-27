@@ -1,6 +1,5 @@
 # Network Protocol Audit: DHCP, DNS & HTTP MITM Analysis
 
-![Portada del proyecto](cover.png)
 
 ## Descripción del Proyecto
 Proyecto de **Análisis de Redes y Ciberseguridad** centrado en la interceptación y disección de protocolos críticos en un entorno controlado.
